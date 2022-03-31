@@ -1,0 +1,76 @@
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Bakery Management System\bin\Debug\Bakery Management System.exe.config
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Bakery Management System\bin\Debug\Bakery Management System.exe
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Bakery Management System\bin\Debug\Bakery Management System.pdb
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Bakery Management System\obj\Debug\Bakery Management System.csprojAssemblyReference.cache
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Bakery Management System\obj\Debug\Bakery_Management_System.Form1.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Bakery Management System\obj\Debug\Bakery_Management_System.Properties.Resources.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Bakery Management System\obj\Debug\Bakery Management System.csproj.GenerateResource.cache
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Bakery Management System\obj\Debug\Bakery Management System.csproj.CoreCompileInputs.cache
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Bakery Management System\obj\Debug\Bakery Management System.csproj.CopyComplete
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Bakery Management System\obj\Debug\Bakery Management System.exe
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Bakery Management System\obj\Debug\Bakery Management System.pdb
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Bakery Management System\obj\Debug\Bakery_Management_System.DashBoard.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Bakery Management System\obj\Debug\Bakery_Management_System.AllUserControl.UC_Welcome.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Bakery Management System\obj\Debug\Bakery_Management_System.AllUserControl.UC_AddItems.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Bakery Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Bakery Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Bakery Management System\obj\Debug\Bakery_Management_System.AllUserControl.UC_PlaceOrder.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Bakery Management System\obj\Debug\Bakery_Management_System.AllUserControl.UC_UpdateItems.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Bakery Management System\obj\Debug\Bakery_Management_System.AllUserControl.UC_RemoveItem.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Bakery Management System\bin\Debug\Bakery Management System.exe.config
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Bakery Management System\bin\Debug\Bakery Management System.exe
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Bakery Management System\bin\Debug\Bakery Management System.pdb
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Bakery Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Bakery Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Bakery Management System\obj\Debug\Bakery Management System.csprojAssemblyReference.cache
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Bakery Management System\obj\Debug\Bakery_Management_System.AllUserControl.UC_AddItems.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Bakery Management System\obj\Debug\Bakery_Management_System.AllUserControl.UC_PlaceOrder.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Bakery Management System\obj\Debug\Bakery_Management_System.AllUserControl.UC_RemoveItem.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Bakery Management System\obj\Debug\Bakery_Management_System.AllUserControl.UC_UpdateItems.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Bakery Management System\obj\Debug\Bakery_Management_System.AllUserControl.UC_Welcome.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Bakery Management System\obj\Debug\Bakery_Management_System.DashBoard.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Bakery Management System\obj\Debug\Bakery_Management_System.Form1.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Bakery Management System\obj\Debug\Bakery_Management_System.Properties.Resources.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Bakery Management System\obj\Debug\Bakery Management System.csproj.GenerateResource.cache
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Bakery Management System\obj\Debug\Bakery Management System.csproj.CoreCompileInputs.cache
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Bakery Management System\obj\Debug\Bakery Management System.csproj.CopyComplete
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Bakery Management System\obj\Debug\Bakery Management System.exe
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Bakery Management System\obj\Debug\Bakery Management System.pdb
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Project\bin\Debug\Bakery Management System.exe.config
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Project\bin\Debug\Bakery Management System.exe
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Project\bin\Debug\Bakery Management System.pdb
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Project\obj\Debug\Bakery Management System.csprojAssemblyReference.cache
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Project\obj\Debug\Bakery_Management_System.AllUserControl.UC_AddItems.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Project\obj\Debug\Bakery_Management_System.AllUserControl.UC_PlaceOrder.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Project\obj\Debug\Bakery_Management_System.AllUserControl.UC_RemoveItem.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Project\obj\Debug\Bakery_Management_System.AllUserControl.UC_UpdateItems.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Project\obj\Debug\Bakery_Management_System.AllUserControl.UC_Welcome.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Project\obj\Debug\Bakery_Management_System.DashBoard.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Project\obj\Debug\Bakery_Management_System.Form1.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Project\obj\Debug\Bakery_Management_System.Properties.Resources.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Project\obj\Debug\Bakery Management System.csproj.GenerateResource.cache
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Project\obj\Debug\Bakery Management System.csproj.CoreCompileInputs.cache
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Project\obj\Debug\Bakery Management System.csproj.CopyComplete
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Project\obj\Debug\Bakery Management System.exe
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System\Project\obj\Debug\Bakery Management System.pdb
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Project\bin\Debug\Bakery Management System.exe.config
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Project\bin\Debug\Bakery Management System.exe
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Project\bin\Debug\Bakery Management System.pdb
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Project\obj\Debug\Bakery Management System.csprojAssemblyReference.cache
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Project\obj\Debug\Bakery_Management_System.AllUserControl.UC_AddItems.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Project\obj\Debug\Bakery_Management_System.AllUserControl.UC_PlaceOrder.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Project\obj\Debug\Bakery_Management_System.AllUserControl.UC_RemoveItem.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Project\obj\Debug\Bakery_Management_System.AllUserControl.UC_UpdateItems.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Project\obj\Debug\Bakery_Management_System.AllUserControl.UC_Welcome.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Project\obj\Debug\Bakery_Management_System.DashBoard.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Project\obj\Debug\Bakery_Management_System.Form1.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Project\obj\Debug\Bakery_Management_System.Properties.Resources.resources
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Project\obj\Debug\Bakery Management System.csproj.GenerateResource.cache
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Project\obj\Debug\Bakery Management System.csproj.CoreCompileInputs.cache
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Project\obj\Debug\Bakery Management System.csproj.CopyComplete
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Project\obj\Debug\Bakery Management System.exe
+C:\Users\Citymobiles\OneDrive\Desktop\Bakrey Mangement System - Copy\Project\obj\Debug\Bakery Management System.pdb
